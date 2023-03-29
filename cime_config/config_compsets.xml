@@ -301,6 +301,13 @@
     <science_support grid="f19_tn14"/>
   </compset>
 
+  <compset>
+    <alias>N1850vslsn2onh3atmndep_tropstratchem_prep</alias>
+    <lname>1850_CAM60%NORESM%TROPSTRATCHEM%PREP_CLM50%BGC-CROP_CICE%NORESM-CMIP6_BLOM%ECO_MOSART_SGLC_SWAV_BGC%BDRDDMS%VSLSC%N2OC%NH3C%ATMNDEPC</lname>
+    <science_support grid="f09_tn14"/>
+    <science_support grid="f19_tn14"/>
+  </compset>
+
   <!-- uses differently organized emission files : FRC2 -->
   <compset>
     <alias>N1850frc2</alias>
